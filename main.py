@@ -1,0 +1,3 @@
+from GUIInterface import *
+
+GUIInterface()
